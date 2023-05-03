@@ -1,0 +1,16 @@
+footer {
+    background: #5a60ea;
+}
+
+footer h1 {
+    font-family: 'Berkshire Swash', cursive;
+}
+
+footer a {
+    color: #fff;
+}
+
+footer a:hover {
+    color: #ffa02a;
+    font-weight: 600;
+}

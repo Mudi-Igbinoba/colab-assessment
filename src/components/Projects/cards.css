@@ -1,0 +1,51 @@
+#cards h3 {
+    font-family: 'Montserrat';
+    color: #515050;
+}
+
+#cards h3 em {
+    color: #5a60ea;
+    text-decoration: underline;
+    text-decoration-color: #5a60ea;
+}
+
+#cards .post-title {
+    font-family: 'Berkshire Swash', cursive;
+    color: #222;
+}
+
+#cards .post-category {
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+#cards a.btn {
+    background-color: #45dfcd;
+    border: 1px solid #45dfcd;
+}
+
+#cards a.repo {
+    background-color: #ff6dcd;
+    border: 1px solid #ff6dcd;
+}
+
+#cards a.btn:hover {
+    background-color: transparent;
+    border: 2px solid #ff6dcd;
+    color: #ff6dcd;
+}
+
+#cards a.repo:hover {
+    background-color: transparent;
+    border: 2px solid #45dfcd;
+    color: #45dfcd;
+}
+
+#cards img {
+    box-shadow: 0 1rem 3rem rgba(255, 255, 255, 0.175);
+    transition: all 0.3s ease-in-out;
+}
+
+#cards img:hover {
+    transform: scale(1.05);
+}

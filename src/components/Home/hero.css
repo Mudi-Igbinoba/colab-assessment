@@ -1,0 +1,17 @@
+#about-me h2 {
+    font-family: 'Berkshire Swash', cursive;
+}
+
+#about-me h2 span {
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    color: #515050;
+}
+
+#about-me a {
+    color: #5a60ea;
+}
+
+#about-me a:hover {
+    color: #ffa02a;
+}
